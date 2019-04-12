@@ -40,6 +40,7 @@
 %                                            the i-th PDM point is matched 
 %                                            with the j-th point (0 or 1)
 %               .alphaInit [zeros(M,1)]      initial value of alpha
+%               .sigma2Init                  initial value of sigma2 (the square of sigma)
 %               .doApproximation [1]         toggle approximate Q step, see
 %                                            [1] (0 or 1)
 %               .convergentApproximation [0] (only applicable if 
